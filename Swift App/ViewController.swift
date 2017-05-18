@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         self.view.backgroundColor = UIColor.green
         track += 1
         if track >= 10 {
-           theLabel.text = "You pushed the button more than 10 times and i am on acid"
+           theLabel.text = "You pushed the button more than 10 times and i am on acid and next we will be off to kodaikanal"
         }
     }
     override func viewDidLoad() {
